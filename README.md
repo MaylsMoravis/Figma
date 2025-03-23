@@ -1,0 +1,2 @@
+# Figma
+bu ishimga qilyapman
